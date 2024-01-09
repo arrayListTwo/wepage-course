@@ -6,7 +6,7 @@ module.exports = (opts) => {
     nonce
   } = opts
 
-  const MY_TOKEN = 'shuaihua' // token
+  const MY_TOKEN = 'DingBaoLeiTest' // token
 
   const array = new Array(MY_TOKEN, timestamp, nonce)
 
